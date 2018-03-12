@@ -13,8 +13,8 @@ A light pylon basler gige camera capture function (for Qt or others)
 
 Version_0 will print the detail information of the camera and pixel in the console
 
-           Version_1 and Version_2 ignore the detail information. But Version_2 support the filename with the directory in    the Capture function. 
+Version_1 and Version_2 ignore the detail information. But Version_2 support the filename with the directory in    the Capture function. 
 
-Ex.For Version_1:Capture("xxxx");
+For Version_1:Capture("xxxx");
 
 For Version_2:Capture("test/xxxx") 
